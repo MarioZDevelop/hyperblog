@@ -3,3 +3,5 @@ Y esta es la primera modificación
 Hoy hablaremos sobre la vida
 Comienza la maestria
 token github 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
+
+El git stash sirve para que cuando modifique una rama pero el cambio no lo quiera realizar en un commit, pueda volver al estado del ultimo commit hecho y los cambios se almacenan dentro del stash, los puedo ver con stash list y podria cambiar de rama y hacer commit en una nueva rama para no perder los cambios pero no hacer el commit en la rama principal
